@@ -1,4 +1,3 @@
-
 /*!
  * artplayer-plugin-chapter.js v1.0.0
  * Github: https://github.com/zhw2590582/ArtPlayer
