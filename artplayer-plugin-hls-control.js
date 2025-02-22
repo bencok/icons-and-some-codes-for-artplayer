@@ -1,4 +1,3 @@
-
 /*!
  * artplayer-plugin-hls-control.js v1.0.1
  * Github: https://github.com/zhw2590582/ArtPlayer
