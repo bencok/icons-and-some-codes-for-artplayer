@@ -1,4 +1,3 @@
-
 /*!
  * artplayer.js v5.2.1
  * Github: https://github.com/zhw2590582/ArtPlayer
